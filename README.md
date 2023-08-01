@@ -1,2 +1,2 @@
 # git_test
-Getting know the Git
+Getting to know the Git
